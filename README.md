@@ -5,7 +5,7 @@ I try to maintain several<sup>[[1]](https://go-critic.github.io/)</sup> good<sup
 Sometimes I create dev tools like [phpgrep](https://github.com/quasilyte/phpgrep) (structural PHP code search using AST patterns).
 
 Some facts about me:
-* I enjoy [3D-printing](https://www.deviantart.com/quasilyte/art/3-D-printer-gophers-802397834) and [drawing](https://quasilyte.dev/gopherkon/)
+* I enjoy [3D-printing](https://www.instagram.com/quasilyte3d/) and [drawing](https://quasilyte.dev/gopherkon/)
 * My tech talks and articles can be found at [github.com/quasilyte/talks](https://github.com/quasilyte/talks)
 * Co-host of the [GolangKazan](https://GolangKazan.github.io/en) Go community
 * You can call me Alex
