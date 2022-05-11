@@ -5,6 +5,7 @@ Sometimes I create dev tools like [phpgrep](https://github.com/quasilyte/phpgrep
 
 Some facts about me:
 * I enjoy [3D-printing](https://www.instagram.com/quasilyte3d/) and [drawing](https://quasilyte.dev/gopherkon/)
+* I love video games and game development
 * My tech talks and articles can be found at [github.com/quasilyte/talks](https://github.com/quasilyte/talks)
 * Co-host of the [GolangKazan](https://GolangKazan.github.io/en) Go community
 * You can call me Alex
