@@ -1,4 +1,4 @@
-I worked on [NoVerify](https://github.com/VKCOM/noverify) static analyzer for PHP and [KPHP compiler](github.com/VKCOM/kphp/) at [vk.com](https://github.com/VKCOM/). Before that, I was a part of [Intel Go team](https://github.com/intel-go): I added AVX-512 support and some compiler optimizations there, but most of the time I was tinkering the Go x86-64 assembler.
+I worked on [NoVerify](https://github.com/VKCOM/noverify) static analyzer for PHP and [KPHP compiler](https://github.com/VKCOM/kphp/) at [vk.com](https://github.com/VKCOM/). Before that, I was a part of [Intel Go team](https://github.com/intel-go): I added AVX-512 support and some compiler optimizations there, but most of the time I was tinkering the Go x86-64 assembler.
 
 I try to maintain several<sup>[[1]](https://go-critic.github.io/)</sup> good<sup>[[2]](https://github.com/VKCOM/noverify)</sup> static<sup>[[3]](https://github.com/quasilyte/go-consistent)</sup> analyzers<sup>[[4]](https://github.com/quasilyte/go-ruleguard)</sup>.<br>
 Sometimes I create dev tools like [phpgrep](https://github.com/quasilyte/phpgrep) (structural PHP code search using AST patterns).
