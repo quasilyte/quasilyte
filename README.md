@@ -1,4 +1,8 @@
+----
+
 > I am doing gamedev in Go. Wishlist my game on Steam: [NebuLeet](https://store.steampowered.com/app/3024370/NebuLeet)
+
+----
 
 I worked on [NoVerify](https://github.com/VKCOM/noverify) static analyzer for PHP and [KPHP compiler](https://github.com/VKCOM/kphp/) at [vk.com](https://github.com/VKCOM/). Before that, I was a part of Intel Go team: I added AVX-512 support and some compiler optimizations there, but most of the time I was tinkering the Go x86-64 assembler.
 
